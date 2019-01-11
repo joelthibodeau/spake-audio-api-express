@@ -9,7 +9,7 @@ their progress on a recording project.
 
 ### Links ###
 
-* API Repository –
+* API Repository – https://github.com/joelthibodeau/spake-audio-api
 * Client Repository –
 * Deployed back-end –
 * Deployed front-end –
